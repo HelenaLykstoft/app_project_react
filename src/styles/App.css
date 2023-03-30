@@ -1,0 +1,26 @@
+nav {
+    width: auto;
+    height: auto;
+    background-color: lightblue;
+}
+
+ul {
+    list-style-type: none;
+    width: auto;
+    height: auto;
+    background-color: lavenderblush;
+
+}
+
+li {
+    width: 80px;
+    margin: 10px 10px 10px 10px;
+    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+h1 {
+    font-family: "Arial Black";
+    font-size: 50px;
+}
